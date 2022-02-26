@@ -1,6 +1,7 @@
 .wrapper {
   display: flex;
 }
+
 .side-bar {
   background-color: #253141;
   width: 300px;
@@ -56,7 +57,6 @@
   padding: 0 40px;
   display: flex;
   justify-content: space-between;
-  
 }
 
 .header-title{
@@ -72,6 +72,7 @@
 .header-button a {
   text-decoration: none;
   border: 1px solid darkred;
+  color: darkred;
   padding: 20px;
 }
 
